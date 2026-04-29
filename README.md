@@ -36,12 +36,7 @@ A simple Rock Paper Scissors game built using **HTML, CSS, and JavaScript**. Thi
 * Structuring a small front-end project
 
 ## How to Run
-1. Clone this repository
-
-   ```
-   git clone https://github.com/your-username/rock-paper-scissors.git
-   ```
-2. Open `index.html` in your browser
+Play it here: https://parthsharma005.github.io/Rock-Paper-Scissors-Js/
 
 ## Future Improvements
 * Add keyboard controls (R, P, S)
