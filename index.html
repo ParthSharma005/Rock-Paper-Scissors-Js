@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Rock Paper Scissors</title>
+    <link rel="stylesheet" href="RPS2.css">
+    <link rel="icon" href="rock-paper-scissors.png">
+</head>
+<body>
+    <h1>ROCK PAPER SCISSORS</h1>
+    <div class="move">
+    <button onclick="judge('Rock')"><img src="rock.png"></button>
+    <button onclick="judge('Paper')"><img src="paper.png"></button>
+    <button onclick="judge('Scissors')"><img src="scissors.png"></button>
+    </div>
+    <br>
+    <p class="text" id="js-result"></p>
+    <p class="text" id="js-moves"></p>
+    <p class="text" id="js-scoreText"></p>
+    <div class="score">
+    <button onclick="reset()">Reset Score</button>
+    </div>
+    <script src="RPS2.js"></script>
+</body>
+</html>
