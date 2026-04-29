@@ -25,7 +25,8 @@ A simple Rock Paper Scissors game built using **HTML, CSS, and JavaScript**. Thi
 ├── images/
 │   ├── rock.png
 │   ├── paper.png
-│   └── scissors.png
+│   ├── scissors.png
+│   └── rock-paper-scissors.png
 ```
 
 ## What I Learned
