@@ -3,11 +3,11 @@
 A simple Rock Paper Scissors game built using **HTML, CSS, and JavaScript**. This was my first web development project, focused on learning DOM manipulation, event handling, and storing data using localStorage.
 
 ## Features
-*Random computer move generation
-*Score tracking (Wins, Losses, Ties)
-*Persistent score using **localStorage**
-*Reset score functionality
-*Styled UI with responsive button layout
+* Random computer move generation
+* Score tracking (Wins, Losses, Ties)
+* Persistent score using **localStorage**
+* Reset score functionality
+* Styled UI with responsive button layout
 
 ## Tech Stack
 * **HTML** – Structure of the webpage
